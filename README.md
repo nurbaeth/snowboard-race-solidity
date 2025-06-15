@@ -19,7 +19,7 @@
 - [Hardhat](https://hardhat.org/) *(recommended)* for testing/deployment 
 - [Chainlink VRF](https://docs.chain.link/docs/vrf/v2/introduction/) *(optional)* for real randomness 
  
----
+--- 
 
 ## 🎮 Game Flow
 
