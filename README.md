@@ -20,7 +20,7 @@
 - [Chainlink VRF](https://docs.chain.link/docs/vrf/v2/introduction/) *(optional)* for real randomness 
  
 --- 
-
+ 
 ## 🎮 Game Flow
 
 1. **Create a race**
