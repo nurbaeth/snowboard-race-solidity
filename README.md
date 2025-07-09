@@ -3,7 +3,7 @@
 **Snowboard Race** is a fully on-chain, turn-based multiplayer game where players race down a snowy slope on snowboards. The game is implemented in pure Solidity, making every move verifiable, transparent, and trustless.
      
 ---      
-  
+    
 ## ❄️ Gameplay Overview  
   
 - 2–4 players per race   
