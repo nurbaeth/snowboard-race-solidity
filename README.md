@@ -17,7 +17,7 @@
    
 - [Solidity](https://docs.soliditylang.org/) — core game logic   
 - [Hardhat](https://hardhat.org/) *(recommended)* for testing/deployment  
-- [Chainlink VRF](https://docs.chain.link/docs/vrf/v2/introduction/) *(optional)* for real randomness 
+- [Chainlink VRF](https://docs.chain.link/docs/vrf/v2/introduction/) *(optional)* for real randomness  
  
 --- 
   
