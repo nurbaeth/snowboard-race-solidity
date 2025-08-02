@@ -11,7 +11,7 @@
 - First to reach the finish line wins     
 - All logic is on-chain — no central control, no cheating     
      
----  
+---   
   
 ## 🧱 Built With  
   
