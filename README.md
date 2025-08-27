@@ -25,7 +25,7 @@
  
 1. **Create a race**   
     ```solidity     
-    createGame(uint256 finishLine)  
+    createGame(uint256 finishLine)   
     ```
  
 2. **Join the race**
