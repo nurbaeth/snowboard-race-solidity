@@ -13,7 +13,7 @@
        
 ---    
     
-## 🧱 Built With   
+## 🧱 Built With    
    
 - [Solidity](https://docs.soliditylang.org/) — core game logic   
 - [Hardhat](https://hardhat.org/) *(recommended)* for testing/deployment  
