@@ -12,7 +12,7 @@
 - All logic is on-chain — no central control, no cheating      
        
 ---    
-   
+    
 ## 🧱 Built With   
    
 - [Solidity](https://docs.soliditylang.org/) — core game logic   
