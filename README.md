@@ -23,7 +23,7 @@
   
 ## 🎮 Game Flow    
  
-1. **Create a race**  
+1. **Create a race**   
     ```solidity   
     createGame(uint256 finishLine)  
     ```
