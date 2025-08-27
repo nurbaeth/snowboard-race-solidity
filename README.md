@@ -6,7 +6,7 @@
      
 ## ❄️ Gameplay Overview      
           
-- 2–4 players per race      
+- 2–4 players per race       
 - Each player takes turns "rolling a dice" (1–6)     
 - First to reach the finish line wins     
 - All logic is on-chain — no central control, no cheating     
