@@ -27,7 +27,7 @@
     ```solidity    
     createGame(uint256 finishLine)  
     ```
-
+ 
 2. **Join the race**
     ```solidity
     joinGame(uint256 gameId)
