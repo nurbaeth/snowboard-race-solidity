@@ -10,7 +10,7 @@
 - Each player takes turns "rolling a dice" (1–6)       
 - First to reach the finish line wins       
 - All logic is on-chain — no central control, no cheating       
-       
+        
 ---    
     
 ## 🧱 Built With    
