@@ -21,7 +21,7 @@
     
 --- 
    
-## 🎮 Game Flow    
+## 🎮 Game Flow     
  
 1. **Create a race**   
     ```solidity     
