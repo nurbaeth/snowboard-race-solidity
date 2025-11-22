@@ -1,4 +1,4 @@
-# 🏂 Snowboard Race (Solidity Game)       
+ # 🏂 Snowboard Race (Solidity Game)       
          
 **Snowboard Race** is a fully on-chain, turn-based multiplayer game where players race down a snowy slope on snowboards. The game is implemented in pure Solidity, making every move verifiable, transparent, and trustless. 
             
@@ -15,7 +15,7 @@
      
 ## 🧱 Built With      
        
-- [Solidity](https://docs.soliditylang.org/) — core game logic       
+- [Solidity](https://docs.soliditylang.org/) — core game logic        
 - [Hardhat](https://hardhat.org/) *(recommended)* for testing/deployment      
 - [Chainlink VRF](https://docs.chain.link/docs/vrf/v2/introduction/) *(optional)* for real randomness      
     
